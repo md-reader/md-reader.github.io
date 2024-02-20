@@ -1,0 +1,1 @@
+import{_ as o,c as t,o as s,p as _,f as c,a}from"./entry.56f68a50.js";const d={},n=e=>(_("data-v-973fe6de"),e=e(),c(),e),p={class:"content"},r=n(()=>a("h1",null,"About page",-1)),f=[r];function u(e,i){return s(),t("div",p,f)}const h=o(d,[["render",u],["__scopeId","data-v-973fe6de"]]);export{h as default};
