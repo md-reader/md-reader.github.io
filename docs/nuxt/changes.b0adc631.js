@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as c,p as o,f as t,a as _}from"./entry.50e8c324.js";const n={},d=e=>(o("data-v-1749aa42"),e=e(),t(),e),p={class:"content"},r=d(()=>_("h1",null,"Changes page",-1)),h=[r];function i(e,l){return c(),s("div",p,h)}const u=a(n,[["render",i],["__scopeId","data-v-1749aa42"]]);export{u as default};

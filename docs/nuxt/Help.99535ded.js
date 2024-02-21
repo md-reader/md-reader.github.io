@@ -1,1 +1,0 @@
-import{_ as o,c as s,o as t,p as _,f as c,a}from"./entry.a899fb98.js";const n={},p=e=>(_("data-v-1f8a9207"),e=e(),c(),e),d={class:"content"},l=p(()=>a("h1",null,"Help page",-1)),r=[l];function f(e,i){return t(),s("div",d,r)}const u=o(n,[["render",f],["__scopeId","data-v-1f8a9207"]]);export{u as default};

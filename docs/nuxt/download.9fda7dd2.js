@@ -1,0 +1,1 @@
+import{_ as o,c as a,o as s,p as t,f as _,a as c}from"./entry.50e8c324.js";const d={},n=e=>(t("data-v-6056e6a6"),e=e(),_(),e),p={class:"content"},l=n(()=>c("h1",null,"Download page",-1)),r=[l];function i(e,f){return s(),a("div",p,r)}const u=o(d,[["render",i],["__scopeId","data-v-6056e6a6"]]);export{u as default};
