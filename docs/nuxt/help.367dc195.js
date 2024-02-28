@@ -1,1 +1,0 @@
-import{_ as o,c as s,o as t,p as c,f as _,a}from"./entry.ab657a98.js";const n={},d=e=>(c("data-v-32e32244"),e=e(),_(),e),p={class:"content"},l=d(()=>a("h1",{class:"text-3xl font-bold"},"Coming soon",-1)),r=[l];function i(e,h){return t(),s("div",p,r)}const u=o(n,[["render",i],["__scopeId","data-v-32e32244"]]);export{u as default};
