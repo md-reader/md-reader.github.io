@@ -1,1 +1,0 @@
-import{aF as o,a9 as s,ak as r,aa as n}from"./DIqI4X7b.js";const u=n(),l=o(async e=>{var a;const{isLoggedIn:t}=s();if([""].includes(e.path)&&!t.value)return r({path:u("/login"),query:{redirect:e.fullPath}});if(e.path==="/login"&&t.value)return r(u(((a=e.query.redirect)==null?void 0:a.toString())||"/"))});export{l as default};
