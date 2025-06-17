@@ -1,1 +1,0 @@
-import{_ as o,c as s,a as t,o as c}from"./LUZyy5zJ.js";const n={},a={class:"content"};function r(_,e){return c(),s("div",a,e[0]||(e[0]=[t("h1",{class:"text-3xl"},"Coming soon...",-1)]))}const l=o(n,[["render",r],["__scopeId","data-v-78be9595"]]);export{l as default};
