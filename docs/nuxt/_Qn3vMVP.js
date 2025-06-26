@@ -1,1 +1,0 @@
-import{aQ as o,al as s,aw as r,am as n}from"./_t8JVrkd.js";const u=n(),c=o(async e=>{var a;const{isLoggedIn:t}=s();if([""].includes(e.path)&&!t.value)return r({path:u("/login"),query:{redirect:e.fullPath}});if(e.path==="/login"&&t.value)return r(u(((a=e.query.redirect)==null?void 0:a.toString())||"/"))});export{c as default};
