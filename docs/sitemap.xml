@@ -4,32 +4,75 @@
   <url>
     <loc>https://md-reader.github.io/</loc>
     <xhtml:link rel="alternate" hreflang="en-US" href="https://md-reader.github.io/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://md-reader.github.io/zh" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://md-reader.github.io/" />
   </url>
   <url>
-    <loc>https://md-reader.github.io/install/</loc>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://md-reader.github.io/install/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://md-reader.github.io/install/" />
+    <loc>https://md-reader.github.io/install</loc>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://md-reader.github.io/install" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://md-reader.github.io/zh/install" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://md-reader.github.io/install" />
   </url>
   <url>
-    <loc>https://md-reader.github.io/pricing/</loc>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://md-reader.github.io/pricing/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://md-reader.github.io/pricing/" />
+    <loc>https://md-reader.github.io/pricing</loc>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://md-reader.github.io/pricing" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://md-reader.github.io/zh/pricing" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://md-reader.github.io/pricing" />
   </url>
   <url>
-    <loc>https://md-reader.github.io/changes/</loc>
+    <loc>https://md-reader.github.io/changes</loc>
     <lastmod>2026-05-19</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://md-reader.github.io/changes/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://md-reader.github.io/changes/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://md-reader.github.io/changes" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://md-reader.github.io/zh/changes" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://md-reader.github.io/changes" />
   </url>
   <url>
-    <loc>https://md-reader.github.io/privacy/</loc>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://md-reader.github.io/privacy/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://md-reader.github.io/privacy/" />
+    <loc>https://md-reader.github.io/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://md-reader.github.io/privacy" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://md-reader.github.io/zh/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://md-reader.github.io/privacy" />
   </url>
   <url>
-    <loc>https://md-reader.github.io/terms/</loc>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://md-reader.github.io/terms/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://md-reader.github.io/terms/" />
+    <loc>https://md-reader.github.io/terms</loc>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://md-reader.github.io/terms" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://md-reader.github.io/zh/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://md-reader.github.io/terms" />
+  </url>
+  <url>
+    <loc>https://md-reader.github.io/zh</loc>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://md-reader.github.io/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://md-reader.github.io/zh" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://md-reader.github.io/" />
+  </url>
+  <url>
+    <loc>https://md-reader.github.io/zh/install</loc>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://md-reader.github.io/install" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://md-reader.github.io/zh/install" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://md-reader.github.io/install" />
+  </url>
+  <url>
+    <loc>https://md-reader.github.io/zh/pricing</loc>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://md-reader.github.io/pricing" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://md-reader.github.io/zh/pricing" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://md-reader.github.io/pricing" />
+  </url>
+  <url>
+    <loc>https://md-reader.github.io/zh/changes</loc>
+    <lastmod>2026-05-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://md-reader.github.io/changes" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://md-reader.github.io/zh/changes" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://md-reader.github.io/changes" />
+  </url>
+  <url>
+    <loc>https://md-reader.github.io/zh/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://md-reader.github.io/privacy" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://md-reader.github.io/zh/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://md-reader.github.io/privacy" />
+  </url>
+  <url>
+    <loc>https://md-reader.github.io/zh/terms</loc>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://md-reader.github.io/terms" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://md-reader.github.io/zh/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://md-reader.github.io/terms" />
   </url>
 </urlset>

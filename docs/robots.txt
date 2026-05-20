@@ -1,9 +1,4 @@
 User-agent: *
 Allow: /
 
-Disallow: /login
-Disallow: /resetpassword
-Disallow: /notification/
-Disallow: /activation
-
 Sitemap: https://md-reader.github.io/sitemap.xml
