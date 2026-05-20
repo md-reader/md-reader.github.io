@@ -1,1 +1,0 @@
-import{y as u,at as o,Y as a,aA as s}from"./gxH-5fbR.js";const r=s(),c=u(async e=>{const{isLoggedIn:t}=o();if([""].includes(e.path)&&!t.value)return a({path:r("/login"),query:{redirect:e.fullPath}});if(e.path==="/login"&&t.value)return a(r(e.query.redirect?.toString()||"/"))});export{c as default};
