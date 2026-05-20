@@ -1,75 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://md-reader.github.io/</loc>
-    <lastmod>2026-05-19T12:25:51.432Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://md-reader.github.io/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://md-reader.github.io/" />
   </url>
   <url>
-    <loc>https://md-reader.github.io/install</loc>
-    <lastmod>2026-05-19T12:25:51.432Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://md-reader.github.io/install/</loc>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://md-reader.github.io/install/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://md-reader.github.io/install/" />
   </url>
   <url>
-    <loc>https://md-reader.github.io/pricing</loc>
-    <lastmod>2026-05-19T12:25:51.432Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://md-reader.github.io/pricing/</loc>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://md-reader.github.io/pricing/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://md-reader.github.io/pricing/" />
   </url>
   <url>
-    <loc>https://md-reader.github.io/changes</loc>
-    <lastmod>2026-05-19T12:25:51.432Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://md-reader.github.io/changes/</loc>
+    <lastmod>2026-05-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://md-reader.github.io/changes/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://md-reader.github.io/changes/" />
   </url>
   <url>
-    <loc>https://md-reader.github.io/privacy</loc>
-    <lastmod>2026-05-19T12:25:51.432Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://md-reader.github.io/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://md-reader.github.io/privacy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://md-reader.github.io/privacy/" />
   </url>
   <url>
-    <loc>https://md-reader.github.io/terms</loc>
-    <lastmod>2026-05-19T12:25:51.432Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://md-reader.github.io/zh/</loc>
-    <lastmod>2026-05-19T12:25:51.432Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://md-reader.github.io/zh/install</loc>
-    <lastmod>2026-05-19T12:25:51.432Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://md-reader.github.io/zh/pricing</loc>
-    <lastmod>2026-05-19T12:25:51.432Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://md-reader.github.io/zh/changes</loc>
-    <lastmod>2026-05-19T12:25:51.432Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://md-reader.github.io/zh/privacy</loc>
-    <lastmod>2026-05-19T12:25:51.432Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://md-reader.github.io/zh/terms</loc>
-    <lastmod>2026-05-19T12:25:51.432Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://md-reader.github.io/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://md-reader.github.io/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://md-reader.github.io/terms/" />
   </url>
 </urlset>

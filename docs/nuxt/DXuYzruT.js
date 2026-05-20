@@ -1,0 +1,1 @@
+import{i as t,t as s,q as o,a6 as n}from"./gxH-5fbR.js";const a={},c={class:"content"};function r(_,e){return n(),s("div",c,[...e[0]||(e[0]=[o("h1",{class:"text-3xl"},"Coming soon...",-1)])])}const i=t(a,[["render",r],["__scopeId","data-v-78be9595"]]);export{i as default};
