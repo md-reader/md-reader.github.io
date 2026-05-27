@@ -1,1 +1,0 @@
-import{x as s,as as u,X as a,aA as o}from"./BgE1hinp.js";const r=o(),c=s(async e=>{const{isLoggedIn:t}=u();if([""].includes(e.path)&&!t.value)return a({path:r("/login"),query:{redirect:e.fullPath}});if(e.path==="/login"&&t.value)return a(r(e.query.redirect?.toString()||"/"))});export{c as default};
