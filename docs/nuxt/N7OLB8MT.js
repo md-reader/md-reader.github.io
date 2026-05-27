@@ -1,0 +1,1 @@
+import{x as r,X as a,aA as n}from"./BgE1hinp.js";const i=n(),p=r(async e=>{if(s(e.query.token))return a(i("/"),{replace:!0})});function s(e=""){if(!e)return!0;const[t,o]=e.split("-");return t===void 0||Number.isNaN(t)?!0:new Date(Number.parseInt(t)).getTime()<Date.now()}export{p as default,s as isTokenExpired};
