@@ -1,0 +1,1 @@
+import{x as s,aA as a,X as i}from"./BOe2uYQP.js";const c=s(async e=>{const t=a(),r=Array.isArray(e.query.token)?e.query.token[0]:e.query.token;if(o(r))return i(t("/"),{replace:!0})});function o(e){if(!e||typeof e!="string")return!0;const[t,r]=e.split("-"),n=Number(t);return Number.isFinite(n)?n<Date.now():!0}export{c as default,o as isTokenExpired};
