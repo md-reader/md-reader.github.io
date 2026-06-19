@@ -1,21 +1,37 @@
-MIT License
+Markdown Reader Proprietary Source License
 
-Copyright (c) 2023 md-reader
+Copyright (c) 2024-2026 Markdown Reader. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This license applies to the source code and associated files in this
+repository (the "Software"), excluding third-party materials that are
+identified as being subject to separate license terms.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The Software is publicly accessible only for viewing, security review,
+evaluation, and submitting proposed contributions to the official Markdown
+Reader project.
+
+Subject to the GitHub Terms of Service and applicable law, no license is
+granted to use, copy, modify, adapt, translate, distribute, publish,
+sublicense, sell, commercially exploit, host, deploy, or create derivative
+works from the Software, in whole or in part, without prior written permission
+from the copyright holder.
+
+Submitting a contribution does not grant you ownership of the project or any
+right to use the Software outside the limited purposes stated above. Any
+separate contribution terms agreed to by the contributor and the copyright
+holder remain applicable.
+
+Third-party software, fonts, images, and other materials included in this
+repository remain subject to their respective licenses and notices. Where a
+third-party license conflicts with this license, that third-party license
+controls only for the corresponding third-party material.
+
+This license does not grant permission to use any Markdown Reader name, logo,
+trademark, service mark, trade dress, or other brand feature.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. TO THE MAXIMUM
+EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY
+CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR RELATED TO THE SOFTWARE OR
+ITS USE.
