@@ -1,1 +1,0 @@
-import{x as s,aA as u,as as o,X as r}from"./wdp0Piis.js";const c=s(async e=>{const t=u(),{isLoggedIn:a}=o();if([""].includes(e.path)&&!a.value)return r({path:t("/login"),query:{redirect:e.fullPath}});if(e.path==="/login"&&a.value)return r(t(e.query.redirect?.toString()||"/"))});export{c as default};
