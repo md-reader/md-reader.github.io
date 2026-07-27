@@ -1,0 +1,1 @@
+import{z as n,aF as u,ax as i,G as c,$ as s}from"./BB29Dc0p.js";const h=n(async e=>{const a=u(),{isLoggedIn:t}=i(),r=[""],o=c(e.path);if(r.includes(e.path)&&!t.value)return s({path:a("/login"),query:{redirect:e.fullPath}});if(o==="/login"&&t.value&&e.query.from!=="extension")return s(a(e.query.redirect?.toString()||"/"))});export{h as default};
